@@ -1,3 +1,5 @@
 # LetsGrowMore-task1
-Static webpage creaetd using HTML, CSS ,and JSp. This webpage was created to complete task-1 in LetsGrowMore VirtualInternshipProgramme as web intern.
-Webpage Link:
+Static webpage created using HTML, CSS ,and JSp.<br>
+This webpage was created to complete task-1 in LetsGrowMore VirtualInternshipProgramme as web intern.<br>
+
+Webpage Link:https://veeresh-27.github.io/LetsGrowMore-task1/<br>
