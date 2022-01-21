@@ -131,7 +131,7 @@
   #about{
     height: 100%;
     flex-direction: column;
-    padding: 20px;
+    
   }
   .col1{
     display: flex;
@@ -508,10 +508,10 @@
   
   @media screen and (max-width:768px) {
     .section{
-      padding: 20px 120px;
+      padding: 20px 40px;
     }
     .navbar{
-      padding: 20px 120px;
+      padding: 20px 10px;
     }
     .navbar .navLinks{
       background-color: var(--main-2);
@@ -565,7 +565,7 @@
       width: 100%;
     }
     #about{
-      padding: 20px 120px;
+    
     }
     #about .col1{
       flex-direction: column;
